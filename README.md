@@ -44,7 +44,7 @@ The development team has shipped a new calculator app for v2.3. The senior teste
 ### 3. Submit Your Findings via GitHub Issues  
 
 #### How to Submit:  
-1. Go to the [Issues tab](https://github.com/[your-repo]/issues) in this repo  
+1. Go to the [Issues tab](https://github.com/PLP-Database-DEPT/swt-01/issues) in this repo  
 2. Click **"New Issue"** → Select the **"Bug Report" template**  
 
 #### For each failed test:  
