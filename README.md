@@ -45,6 +45,7 @@ Locate calculator.html
 Right-click the file
 
 Select "Open with Live Server"
+
 ---
 
 ## 📝 Scenario
