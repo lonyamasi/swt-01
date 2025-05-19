@@ -133,4 +133,4 @@ Document any bugs.
 **Severity**: High
 
 **Screenshot**:  
-![Optional](drag-and-drop-screenshot-here)
+![Evidence](drag-and-drop-screenshot-here)
