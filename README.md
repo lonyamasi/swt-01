@@ -22,6 +22,30 @@ By the end of this lab, you will be able to:
 ✅ Use GitHub Issues for QA workflows
 
 ---
+## 🚀 How to Run (VS Code Live Server)
+
+### **Prerequisites**
+- [VS Code](https://code.visualstudio.com/download) installed
+- [Live Server extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+
+### **Step-by-Step Guide**
+
+1. **Clone and open the repository**:
+   ```bash
+   git clone https://github.com/PLP-Database-DEPT/lab-1.git
+   cd lab-1
+   code .
+
+Launch the calculator:
+
+In VS Code's Explorer panel (Ctrl+Shift+E):
+
+Locate calculator.html
+
+Right-click the file
+
+Select "Open with Live Server"
+---
 
 ## 📝 Scenario
 
