@@ -2,6 +2,7 @@
 
 **Module**: Software Testing Fundamentals  
 **Lab Duration**: 30min
+
 **Tools**: Browser (Chrome/Edge), GitHub (Issues tab), Calculator v2.3 (HTML)
 
 ---
