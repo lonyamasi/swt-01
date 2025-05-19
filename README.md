@@ -1,8 +1,7 @@
 # 🧪 Software Testing Lab 1: Calculator QA Validation
 
 **Module**: Software Testing Fundamentals  
-**Lab Duration**: 1–2 hours  
-**Level**: Beginner – Intermediate  
+**Lab Duration**: 30min
 **Tools**: Browser (Chrome/Edge), GitHub (Issues tab), Calculator v2.3 (HTML)
 
 ---
