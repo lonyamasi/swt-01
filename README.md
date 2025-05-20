@@ -36,15 +36,7 @@ By the end of this lab, you will be able to:
    cd lab-1
    code .
 
-Launch the calculator:
-
-In VS Code's Explorer panel (Ctrl+Shift+E):
-
-Locate calculator.html
-
-Right-click the file
-
-Select "Open with Live Server"
+2. Open calculator.html in VS Code's Explorer (Ctrl+Shift+E), right-click, and select Open with Live Server.
 
 ---
 
